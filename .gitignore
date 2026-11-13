@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.sites-runtime/
+.openai/runtime*
+.openai/*credential*
+*.local
+*.tsbuildinfo
+private_build/
+playwright-report/
+test-results/
+deployment.tar.gz
+deployment-source.zip
