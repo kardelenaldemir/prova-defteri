@@ -38,7 +38,7 @@ Aşağıdaki maddeler konuşmanın kelimesi kelimesine dökümü değil, gelişt
 7. Masaüstü ve mobil görünümü; form kullanımı, çekmece, taşma ve klavye erişimi açısından incele.
 8. Üretim derlemesini, otomatik kontrolleri, herkese açık depo erişimini ve canlı yayını doğrula.
 
-**Sonuç:** `npm test` ile 14/14 test geçti; `npm run typecheck` ve `npm run build` başarılı. Ekran görüntüleri `screenshots/desktop.jpg` ve `screenshots/mobile.jpg` dosyalarındadır. Canlı yayın, erişim doğrulaması tamamlandığında teslim kontrolüne işlenecektir.
+**Sonuç:** `npm test` ile 14/14 test geçti; `npm run typecheck` ve `npm run build` başarılı. Ekran görüntüleri `screenshots/desktop.jpg` ve `screenshots/mobile.jpg` dosyalarındadır. Kaynak kod [herkese açık GitHub deposuna](https://github.com/kardelenaldemir/prova-defteri) aktarıldı. [GitHub Pages yayını](https://kardelenaldemir.github.io/prova-defteri/) tamamlandı; HTTP 200 ve tarayıcıda çalışan arayüz doğrulandı.
 
 ## Geliştiricinin rolü
 

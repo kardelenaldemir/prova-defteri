@@ -44,6 +44,12 @@ npm run build
 npm run preview
 ```
 
+GitHub Pages'te `/prova-defteri/` alt yoluna yayın için:
+
+```sh
+npm run build -- --base=/prova-defteri/
+```
+
 Otomatik kontroller için:
 
 ```sh
@@ -74,8 +80,8 @@ Geliştirmede **OpenAI Codex** asistanı kullanıldı. Problem ve kapsamın beli
 |---|---|
 | Masaüstü ekran görüntüsü | `screenshots/desktop.jpg`; 1.536 piksel genişlikte kontrol edildi. |
 | Mobil ekran görüntüsü | `screenshots/mobile.jpg`; 390 piksel genişlikte kontrol edildi. |
-| Herkese açık GitHub deposu | [kardelenaldemir/prova-defteri](https://github.com/kardelenaldemir/prova-defteri); depo oluşturuldu, kaynak kod aktarımı sürüyor. |
-| Canlı uygulama | Henüz oluşturulmadı; yayın ve erişim kontrolünden sonra gerçek adres eklenecek. |
+| Herkese açık GitHub deposu | [kardelenaldemir/prova-defteri](https://github.com/kardelenaldemir/prova-defteri); kaynak kod `main` dalına aktarıldı. |
+| Canlı uygulama | [Prova Defteri](https://kardelenaldemir.github.io/prova-defteri/); yayın tamamlandı, HTTP 200 ve tarayıcıda çalışan arayüz doğrulandı. |
 
 Masaüstü görünümü:
 

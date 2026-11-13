@@ -49,6 +49,8 @@ Proje bağımsız bir React uygulaması olarak geliştirilir. Üç ekran, bu iş
 
 Bu adımlar çalışma sırasını belirtir; yönergede bulunmayan bir teslim süresi veya tarih şartı eklemez.
 
+Yerel uygulama, testler ve ekran görüntüleri hazırdır. Kaynak kod [herkese açık GitHub deposunun](https://github.com/kardelenaldemir/prova-defteri) `main` dalına aktarıldı. [GitHub Pages yayını](https://kardelenaldemir.github.io/prova-defteri/) tamamlandı; HTTP 200 ve tarayıcı erişimi doğrulandı.
+
 ## Kapsam sınırı
 
 Kimlik doğrulama, çok kullanıcılı eşitleme, ödeme, SMS gönderimi ve otomatik AI önerisi bu çalışmanın kapsamına dahil değildir. Atölye Nabzı Python modeli bu web uygulamasına bağlanmaz; iki proje farklı eğitim çıktılarını karşılar.
