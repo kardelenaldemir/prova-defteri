@@ -6,7 +6,7 @@ Gelinlik atölyeleri için müşteri, prova randevusu ve düzeltme takibini tek 
 
 ## Uygulamanın kapsamı
 
-- **Genel Bakış:** Bugünün ve yaklaşan provaların özeti, iş durumlarını gösteren özet kartları.
+- **Genel Bakış:** Bugünün ve yaklaşan provaların özeti, bekleyen düzeltmeleri gösteren metrik şeridi.
 - **Provalar:** Müşteriye bağlı prova oluşturma, düzenleme ve silme; tarih, saat, tür, durum, düzeltme maddeleri ve notlar.
 - **Müşteriler:** Müşteri kaydı oluşturma, düzenleme, silme ve ilgili provaları inceleme.
 - Arama, durum filtresi ve prova ayrıntıları için detay çekmecesi.

@@ -28,7 +28,7 @@ Uygulama içinde AI API'si/modeli bulunması yönergenin bir koşulu olarak ele 
 - [x] `npm run build` başarıyla tamamlandı.
 - [x] `npm test` çalıştırıldı; 14/14 test geçti.
 - [x] Genel Bakış, Provalar ve Müşteriler ekranları tarayıcıda açıldı.
-- [x] Müşteri oluşturma ve arama akışı tarayıcıda kontrol edildi.
+- [x] Müşteri oluşturma, düzenleme ve arama akışı tarayıcıda kontrol edildi.
 - [x] Prova kaydı, düzeltme maddeleri ve durum güncelleme akışı kontrol edildi.
 - [x] Hatalı/eksik form girdileri ve saat çakışması kontrol edildi.
 - [x] Bugün/yaklaşan kayıtları destekleyen tarih ve sıralama mantığı test edildi.
@@ -56,6 +56,7 @@ Uygulama içinde AI API'si/modeli bulunması yönergenin bir koşulu olarak ele 
 | Mobil | 390 piksel genişlikte tarayıcı kontrolü; `screenshots/mobile.jpg`. |
 | Veri saklama | Yenileme sonrası müşteri/prova ve düzeltme değişiklikleri korundu. |
 | İlişkili kayıtlar | Müşteri silme ve bağlı provaların kaldırılması kontrol edildi. |
+| Canlı müşteri düzenleme | Not değiştirildi, kaydedildi ve detayda yeni değeri görüldü; örnek not ilk haline döndürüldü. |
 | JSON yedek mantığı | Dışa/içe aktarma turu, sürüm ve alan doğrulama, bozuk veri, ilişki kontrolü ve geri yükleme/yazma hatası senaryoları otomatik testlerden geçti. |
 | Kaynak depo | Kaynak kod `main` dalına aktarıldı; GitHub API yanıtında `private: false` ve `default_branch: main`. |
 | Canlı yayın | GitHub Pages son derleme durumu `built`; `public: true`, kaynak dal `gh-pages`. Anonim HTTP 200; tarayıcıda Genel Bakış ve Müşteriler açıldı, konsol hata/uyarı listesi boş. |
